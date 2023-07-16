@@ -1,0 +1,28 @@
+*{
+    background-color: lightgray;
+    border: 1px solid gray;
+    box-sizing: border-box;
+}
+
+header {
+    height: 100px;
+    width: 100%;
+}
+
+.headline section {
+    height: 200px;
+    width: 33.333%;
+    float: left;
+}
+
+.articles section {
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+footer {
+    height: 100px;
+    width: 100%;
+    clear: both;
+}
